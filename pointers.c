@@ -12,6 +12,7 @@ int main() {
     printf("%i\n", *ptr);
     ptr--;
   }
+  
   // Code for Checkpoint 3 goes here.
   char* ptr2 = &s[0];
   // Code for Checkpoint 4 goes here.
@@ -20,6 +21,5 @@ int main() {
     ptr2++;
   }
 
-  
   printf("%s\n", s);  
 }

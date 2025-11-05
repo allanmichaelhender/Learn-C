@@ -20,9 +20,6 @@ int main() {
     } else {
 
       printf("Okay! Keep practicing! And remember to take breaks!\n");
-
     }
-
   }
-
 }
